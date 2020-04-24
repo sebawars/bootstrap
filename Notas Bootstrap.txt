@@ -1,0 +1,75 @@
+What is Bootstrap?
+
+	Bootstrap is a free front-end framework for faster and easier web development
+	Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
+	Bootstrap also gives you the ability to easily create responsive designs
+	
+Why Use Bootstrap?
+
+	Advantages of Bootstrap:
+
+	Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap
+	Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops
+	Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework
+	Browser compatibility: Bootstrap 4 is compatible with all modern browsers (Chrome, Firefox, Internet Explorer 10+, Edge, Safari, and Opera)
+	
+Sass
+
+	Sass is a CSS pre-processor with syntax advancements. 
+	
+	SCSS y SASS son extensiones de sintaxis CSS.
+	
+	SCSS puede usarse como CSS.
+	
+	SASS requiere preprocesador para convertir a CSS.
+	
+	Permite, variables, nesting, mixins, inheritance y demas.
+	
+Frameworks FrontEnd
+
+	Bootstrap, Foundation, Bulma y FlexBox Grid.
+	
+	Son frameworks css.
+	
+	Base para empezar proyecto. Nos da flexibilidad en diseño.
+	
+	Organizacion, estructura de HTML, CSS y JS.
+	
+	Componente principal: Grilla.
+	
+	Diseño se adapta a cada dispositivo.
+	
+	Esitlos para fuentes.
+	
+	Componentes visuales pre armados.
+	
+	Ahorra tiempo de desarrollo de cosas ya pre armadas.
+	
+	El diseño es RESPONSIVE.
+	
+	El codigo anda. Está probado.
+	
+	Libre de bugs.
+	
+Arrancamos proyecto con el starter tamplate de getbootstrap.com
+
+La unidad mas basica es el container.
+
+Creas un div con la clase container y te da un contenedor predefinido responsivo con tamaño minimo mostrado.
+
+container-fluid se ajusta a todo el ancho.
+
+En la grilla usas divs con clases row y col
+
+El maximo de columnas por row es de 12.
+
+Cuando superan los 12 las va poniendo debajo.
+
+Con la clase col-2 haces una columna de tamaño dos de ancho.
+
+Con col-sm especificas tamaño para cuando la pantalla tiene cierto ancho chico.
+
+col-md para medium, col-lg para large, col-xl para muy grande.
+
+Con ctrl+d seleccionas lineas de abajo coincidentes para escribir en columna.
+

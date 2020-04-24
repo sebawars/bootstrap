@@ -1,0 +1,24 @@
+#footer{
+  background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+}
+
+.col{
+  border: 2px solid #FFF;
+  min-height: 30px;
+}
+
+.reto1{
+  margin-top: 20px;
+}
+
+.reto1 .col{
+  background-color: darkseagreen;
+}
+
+.reto2 .col{
+  background-color: burlywood;
+}
+
+.reto3 .col{
+  background-color: red;
+}
